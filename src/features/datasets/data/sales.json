@@ -1,0 +1,722 @@
+[
+  {
+    "date": "2025-01-01",
+    "region": "North America",
+    "category": "Enterprise",
+    "revenue": 12000,
+    "orders": 180,
+    "units": 260
+  },
+  {
+    "date": "2025-01-02",
+    "region": "Europe",
+    "category": "SMB",
+    "revenue": 14300,
+    "orders": 207,
+    "units": 298
+  },
+  {
+    "date": "2025-01-03",
+    "region": "APAC",
+    "category": "Consumer",
+    "revenue": 16600,
+    "orders": 234,
+    "units": 336
+  },
+  {
+    "date": "2025-01-04",
+    "region": "LATAM",
+    "category": "Enterprise",
+    "revenue": 18900,
+    "orders": 234,
+    "units": 374
+  },
+  {
+    "date": "2025-01-05",
+    "region": "North America",
+    "category": "SMB",
+    "revenue": 17600,
+    "orders": 261,
+    "units": 364
+  },
+  {
+    "date": "2025-01-06",
+    "region": "Europe",
+    "category": "Consumer",
+    "revenue": 19900,
+    "orders": 288,
+    "units": 402
+  },
+  {
+    "date": "2025-01-07",
+    "region": "APAC",
+    "category": "Enterprise",
+    "revenue": 22200,
+    "orders": 288,
+    "units": 440
+  },
+  {
+    "date": "2025-01-08",
+    "region": "LATAM",
+    "category": "SMB",
+    "revenue": 24500,
+    "orders": 315,
+    "units": 296
+  },
+  {
+    "date": "2025-01-09",
+    "region": "North America",
+    "category": "Consumer",
+    "revenue": 23200,
+    "orders": 342,
+    "units": 286
+  },
+  {
+    "date": "2025-01-10",
+    "region": "Europe",
+    "category": "Enterprise",
+    "revenue": 12900,
+    "orders": 342,
+    "units": 324
+  },
+  {
+    "date": "2025-01-11",
+    "region": "APAC",
+    "category": "SMB",
+    "revenue": 15200,
+    "orders": 189,
+    "units": 362
+  },
+  {
+    "date": "2025-01-12",
+    "region": "LATAM",
+    "category": "Consumer",
+    "revenue": 17500,
+    "orders": 216,
+    "units": 400
+  },
+  {
+    "date": "2025-01-13",
+    "region": "North America",
+    "category": "Enterprise",
+    "revenue": 16200,
+    "orders": 216,
+    "units": 390
+  },
+  {
+    "date": "2025-01-14",
+    "region": "Europe",
+    "category": "SMB",
+    "revenue": 18500,
+    "orders": 243,
+    "units": 428
+  },
+  {
+    "date": "2025-01-15",
+    "region": "APAC",
+    "category": "Consumer",
+    "revenue": 20800,
+    "orders": 270,
+    "units": 284
+  },
+  {
+    "date": "2025-01-16",
+    "region": "LATAM",
+    "category": "Enterprise",
+    "revenue": 23100,
+    "orders": 270,
+    "units": 322
+  },
+  {
+    "date": "2025-01-17",
+    "region": "North America",
+    "category": "SMB",
+    "revenue": 21800,
+    "orders": 297,
+    "units": 312
+  },
+  {
+    "date": "2025-01-18",
+    "region": "Europe",
+    "category": "Consumer",
+    "revenue": 24100,
+    "orders": 324,
+    "units": 350
+  },
+  {
+    "date": "2025-01-19",
+    "region": "APAC",
+    "category": "Enterprise",
+    "revenue": 13800,
+    "orders": 324,
+    "units": 388
+  },
+  {
+    "date": "2025-01-20",
+    "region": "LATAM",
+    "category": "SMB",
+    "revenue": 16100,
+    "orders": 351,
+    "units": 426
+  },
+  {
+    "date": "2025-01-21",
+    "region": "North America",
+    "category": "Consumer",
+    "revenue": 14800,
+    "orders": 198,
+    "units": 416
+  },
+  {
+    "date": "2025-01-22",
+    "region": "Europe",
+    "category": "Enterprise",
+    "revenue": 17100,
+    "orders": 198,
+    "units": 272
+  },
+  {
+    "date": "2025-01-23",
+    "region": "APAC",
+    "category": "SMB",
+    "revenue": 19400,
+    "orders": 225,
+    "units": 310
+  },
+  {
+    "date": "2025-01-24",
+    "region": "LATAM",
+    "category": "Consumer",
+    "revenue": 21700,
+    "orders": 252,
+    "units": 348
+  },
+  {
+    "date": "2025-01-25",
+    "region": "North America",
+    "category": "Enterprise",
+    "revenue": 20400,
+    "orders": 252,
+    "units": 338
+  },
+  {
+    "date": "2025-01-26",
+    "region": "Europe",
+    "category": "SMB",
+    "revenue": 22700,
+    "orders": 279,
+    "units": 376
+  },
+  {
+    "date": "2025-01-27",
+    "region": "APAC",
+    "category": "Consumer",
+    "revenue": 25000,
+    "orders": 306,
+    "units": 414
+  },
+  {
+    "date": "2025-01-28",
+    "region": "LATAM",
+    "category": "Enterprise",
+    "revenue": 14700,
+    "orders": 306,
+    "units": 452
+  },
+  {
+    "date": "2025-01-29",
+    "region": "North America",
+    "category": "SMB",
+    "revenue": 13400,
+    "orders": 333,
+    "units": 260
+  },
+  {
+    "date": "2025-01-30",
+    "region": "Europe",
+    "category": "Consumer",
+    "revenue": 15700,
+    "orders": 360,
+    "units": 298
+  },
+  {
+    "date": "2025-01-31",
+    "region": "APAC",
+    "category": "Enterprise",
+    "revenue": 18000,
+    "orders": 180,
+    "units": 336
+  },
+  {
+    "date": "2025-02-01",
+    "region": "LATAM",
+    "category": "SMB",
+    "revenue": 20300,
+    "orders": 207,
+    "units": 374
+  },
+  {
+    "date": "2025-02-02",
+    "region": "North America",
+    "category": "Consumer",
+    "revenue": 19000,
+    "orders": 234,
+    "units": 364
+  },
+  {
+    "date": "2025-02-03",
+    "region": "Europe",
+    "category": "Enterprise",
+    "revenue": 21300,
+    "orders": 234,
+    "units": 402
+  },
+  {
+    "date": "2025-02-04",
+    "region": "APAC",
+    "category": "SMB",
+    "revenue": 23600,
+    "orders": 261,
+    "units": 440
+  },
+  {
+    "date": "2025-02-05",
+    "region": "LATAM",
+    "category": "Consumer",
+    "revenue": 25900,
+    "orders": 288,
+    "units": 296
+  },
+  {
+    "date": "2025-02-06",
+    "region": "North America",
+    "category": "Enterprise",
+    "revenue": 12000,
+    "orders": 288,
+    "units": 286
+  },
+  {
+    "date": "2025-02-07",
+    "region": "Europe",
+    "category": "SMB",
+    "revenue": 14300,
+    "orders": 315,
+    "units": 324
+  },
+  {
+    "date": "2025-02-08",
+    "region": "APAC",
+    "category": "Consumer",
+    "revenue": 16600,
+    "orders": 342,
+    "units": 362
+  },
+  {
+    "date": "2025-02-09",
+    "region": "LATAM",
+    "category": "Enterprise",
+    "revenue": 18900,
+    "orders": 342,
+    "units": 400
+  },
+  {
+    "date": "2025-02-10",
+    "region": "North America",
+    "category": "SMB",
+    "revenue": 17600,
+    "orders": 189,
+    "units": 390
+  },
+  {
+    "date": "2025-02-11",
+    "region": "Europe",
+    "category": "Consumer",
+    "revenue": 19900,
+    "orders": 216,
+    "units": 428
+  },
+  {
+    "date": "2025-02-12",
+    "region": "APAC",
+    "category": "Enterprise",
+    "revenue": 22200,
+    "orders": 216,
+    "units": 284
+  },
+  {
+    "date": "2025-02-13",
+    "region": "LATAM",
+    "category": "SMB",
+    "revenue": 24500,
+    "orders": 243,
+    "units": 322
+  },
+  {
+    "date": "2025-02-14",
+    "region": "North America",
+    "category": "Consumer",
+    "revenue": 23200,
+    "orders": 270,
+    "units": 312
+  },
+  {
+    "date": "2025-02-15",
+    "region": "Europe",
+    "category": "Enterprise",
+    "revenue": 12900,
+    "orders": 270,
+    "units": 350
+  },
+  {
+    "date": "2025-02-16",
+    "region": "APAC",
+    "category": "SMB",
+    "revenue": 15200,
+    "orders": 297,
+    "units": 388
+  },
+  {
+    "date": "2025-02-17",
+    "region": "LATAM",
+    "category": "Consumer",
+    "revenue": 17500,
+    "orders": 324,
+    "units": 426
+  },
+  {
+    "date": "2025-02-18",
+    "region": "North America",
+    "category": "Enterprise",
+    "revenue": 16200,
+    "orders": 324,
+    "units": 416
+  },
+  {
+    "date": "2025-02-19",
+    "region": "Europe",
+    "category": "SMB",
+    "revenue": 18500,
+    "orders": 351,
+    "units": 272
+  },
+  {
+    "date": "2025-02-20",
+    "region": "APAC",
+    "category": "Consumer",
+    "revenue": 20800,
+    "orders": 198,
+    "units": 310
+  },
+  {
+    "date": "2025-02-21",
+    "region": "LATAM",
+    "category": "Enterprise",
+    "revenue": 23100,
+    "orders": 198,
+    "units": 348
+  },
+  {
+    "date": "2025-02-22",
+    "region": "North America",
+    "category": "SMB",
+    "revenue": 21800,
+    "orders": 225,
+    "units": 338
+  },
+  {
+    "date": "2025-02-23",
+    "region": "Europe",
+    "category": "Consumer",
+    "revenue": 24100,
+    "orders": 252,
+    "units": 376
+  },
+  {
+    "date": "2025-02-24",
+    "region": "APAC",
+    "category": "Enterprise",
+    "revenue": 13800,
+    "orders": 252,
+    "units": 414
+  },
+  {
+    "date": "2025-02-25",
+    "region": "LATAM",
+    "category": "SMB",
+    "revenue": 16100,
+    "orders": 279,
+    "units": 452
+  },
+  {
+    "date": "2025-02-26",
+    "region": "North America",
+    "category": "Consumer",
+    "revenue": 14800,
+    "orders": 306,
+    "units": 260
+  },
+  {
+    "date": "2025-02-27",
+    "region": "Europe",
+    "category": "Enterprise",
+    "revenue": 17100,
+    "orders": 306,
+    "units": 298
+  },
+  {
+    "date": "2025-02-28",
+    "region": "APAC",
+    "category": "SMB",
+    "revenue": 19400,
+    "orders": 333,
+    "units": 336
+  },
+  {
+    "date": "2025-03-01",
+    "region": "LATAM",
+    "category": "Consumer",
+    "revenue": 21700,
+    "orders": 360,
+    "units": 374
+  },
+  {
+    "date": "2025-03-02",
+    "region": "North America",
+    "category": "Enterprise",
+    "revenue": 20400,
+    "orders": 180,
+    "units": 364
+  },
+  {
+    "date": "2025-03-03",
+    "region": "Europe",
+    "category": "SMB",
+    "revenue": 22700,
+    "orders": 207,
+    "units": 402
+  },
+  {
+    "date": "2025-03-04",
+    "region": "APAC",
+    "category": "Consumer",
+    "revenue": 25000,
+    "orders": 234,
+    "units": 440
+  },
+  {
+    "date": "2025-03-05",
+    "region": "LATAM",
+    "category": "Enterprise",
+    "revenue": 14700,
+    "orders": 234,
+    "units": 296
+  },
+  {
+    "date": "2025-03-06",
+    "region": "North America",
+    "category": "SMB",
+    "revenue": 13400,
+    "orders": 261,
+    "units": 286
+  },
+  {
+    "date": "2025-03-07",
+    "region": "Europe",
+    "category": "Consumer",
+    "revenue": 15700,
+    "orders": 288,
+    "units": 324
+  },
+  {
+    "date": "2025-03-08",
+    "region": "APAC",
+    "category": "Enterprise",
+    "revenue": 18000,
+    "orders": 288,
+    "units": 362
+  },
+  {
+    "date": "2025-03-09",
+    "region": "LATAM",
+    "category": "SMB",
+    "revenue": 20300,
+    "orders": 315,
+    "units": 400
+  },
+  {
+    "date": "2025-03-10",
+    "region": "North America",
+    "category": "Consumer",
+    "revenue": 19000,
+    "orders": 342,
+    "units": 390
+  },
+  {
+    "date": "2025-03-11",
+    "region": "Europe",
+    "category": "Enterprise",
+    "revenue": 21300,
+    "orders": 342,
+    "units": 428
+  },
+  {
+    "date": "2025-03-12",
+    "region": "APAC",
+    "category": "SMB",
+    "revenue": 23600,
+    "orders": 189,
+    "units": 284
+  },
+  {
+    "date": "2025-03-13",
+    "region": "LATAM",
+    "category": "Consumer",
+    "revenue": 25900,
+    "orders": 216,
+    "units": 322
+  },
+  {
+    "date": "2025-03-14",
+    "region": "North America",
+    "category": "Enterprise",
+    "revenue": 12000,
+    "orders": 216,
+    "units": 312
+  },
+  {
+    "date": "2025-03-15",
+    "region": "Europe",
+    "category": "SMB",
+    "revenue": 14300,
+    "orders": 243,
+    "units": 350
+  },
+  {
+    "date": "2025-03-16",
+    "region": "APAC",
+    "category": "Consumer",
+    "revenue": 16600,
+    "orders": 270,
+    "units": 388
+  },
+  {
+    "date": "2025-03-17",
+    "region": "LATAM",
+    "category": "Enterprise",
+    "revenue": 18900,
+    "orders": 270,
+    "units": 426
+  },
+  {
+    "date": "2025-03-18",
+    "region": "North America",
+    "category": "SMB",
+    "revenue": 17600,
+    "orders": 297,
+    "units": 416
+  },
+  {
+    "date": "2025-03-19",
+    "region": "Europe",
+    "category": "Consumer",
+    "revenue": 19900,
+    "orders": 324,
+    "units": 272
+  },
+  {
+    "date": "2025-03-20",
+    "region": "APAC",
+    "category": "Enterprise",
+    "revenue": 22200,
+    "orders": 324,
+    "units": 310
+  },
+  {
+    "date": "2025-03-21",
+    "region": "LATAM",
+    "category": "SMB",
+    "revenue": 24500,
+    "orders": 351,
+    "units": 348
+  },
+  {
+    "date": "2025-03-22",
+    "region": "North America",
+    "category": "Consumer",
+    "revenue": 23200,
+    "orders": 198,
+    "units": 338
+  },
+  {
+    "date": "2025-03-23",
+    "region": "Europe",
+    "category": "Enterprise",
+    "revenue": 12900,
+    "orders": 198,
+    "units": 376
+  },
+  {
+    "date": "2025-03-24",
+    "region": "APAC",
+    "category": "SMB",
+    "revenue": 15200,
+    "orders": 225,
+    "units": 414
+  },
+  {
+    "date": "2025-03-25",
+    "region": "LATAM",
+    "category": "Consumer",
+    "revenue": 17500,
+    "orders": 252,
+    "units": 452
+  },
+  {
+    "date": "2025-03-26",
+    "region": "North America",
+    "category": "Enterprise",
+    "revenue": 16200,
+    "orders": 252,
+    "units": 260
+  },
+  {
+    "date": "2025-03-27",
+    "region": "Europe",
+    "category": "SMB",
+    "revenue": 18500,
+    "orders": 279,
+    "units": 298
+  },
+  {
+    "date": "2025-03-28",
+    "region": "APAC",
+    "category": "Consumer",
+    "revenue": 20800,
+    "orders": 306,
+    "units": 336
+  },
+  {
+    "date": "2025-03-29",
+    "region": "LATAM",
+    "category": "Enterprise",
+    "revenue": 23100,
+    "orders": 306,
+    "units": 374
+  },
+  {
+    "date": "2025-03-30",
+    "region": "North America",
+    "category": "SMB",
+    "revenue": 21800,
+    "orders": 333,
+    "units": 364
+  },
+  {
+    "date": "2025-03-31",
+    "region": "Europe",
+    "category": "Consumer",
+    "revenue": 24100,
+    "orders": 360,
+    "units": 402
+  }
+]

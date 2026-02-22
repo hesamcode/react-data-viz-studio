@@ -1,0 +1,722 @@
+[
+  {
+    "date": "2025-01-01",
+    "region": "Europe",
+    "category": "Free",
+    "signups": 75,
+    "activeUsers": 460,
+    "churned": 8
+  },
+  {
+    "date": "2025-01-02",
+    "region": "APAC",
+    "category": "Pro",
+    "signups": 94,
+    "activeUsers": 512,
+    "churned": 11
+  },
+  {
+    "date": "2025-01-03",
+    "region": "LATAM",
+    "category": "Team",
+    "signups": 113,
+    "activeUsers": 564,
+    "churned": 14
+  },
+  {
+    "date": "2025-01-04",
+    "region": "North America",
+    "category": "Free",
+    "signups": 132,
+    "activeUsers": 616,
+    "churned": 17
+  },
+  {
+    "date": "2025-01-05",
+    "region": "Europe",
+    "category": "Pro",
+    "signups": 151,
+    "activeUsers": 596,
+    "churned": 20
+  },
+  {
+    "date": "2025-01-06",
+    "region": "APAC",
+    "category": "Team",
+    "signups": 145,
+    "activeUsers": 648,
+    "churned": 23
+  },
+  {
+    "date": "2025-01-07",
+    "region": "LATAM",
+    "category": "Free",
+    "signups": 164,
+    "activeUsers": 700,
+    "churned": 8
+  },
+  {
+    "date": "2025-01-08",
+    "region": "North America",
+    "category": "Pro",
+    "signups": 183,
+    "activeUsers": 752,
+    "churned": 11
+  },
+  {
+    "date": "2025-01-09",
+    "region": "Europe",
+    "category": "Team",
+    "signups": 90,
+    "activeUsers": 732,
+    "churned": 14
+  },
+  {
+    "date": "2025-01-10",
+    "region": "APAC",
+    "category": "Free",
+    "signups": 109,
+    "activeUsers": 784,
+    "churned": 17
+  },
+  {
+    "date": "2025-01-11",
+    "region": "LATAM",
+    "category": "Pro",
+    "signups": 103,
+    "activeUsers": 836,
+    "churned": 20
+  },
+  {
+    "date": "2025-01-12",
+    "region": "North America",
+    "category": "Team",
+    "signups": 122,
+    "activeUsers": 514,
+    "churned": 23
+  },
+  {
+    "date": "2025-01-13",
+    "region": "Europe",
+    "category": "Free",
+    "signups": 141,
+    "activeUsers": 494,
+    "churned": 8
+  },
+  {
+    "date": "2025-01-14",
+    "region": "APAC",
+    "category": "Pro",
+    "signups": 160,
+    "activeUsers": 546,
+    "churned": 11
+  },
+  {
+    "date": "2025-01-15",
+    "region": "LATAM",
+    "category": "Team",
+    "signups": 179,
+    "activeUsers": 598,
+    "churned": 14
+  },
+  {
+    "date": "2025-01-16",
+    "region": "North America",
+    "category": "Free",
+    "signups": 173,
+    "activeUsers": 650,
+    "churned": 17
+  },
+  {
+    "date": "2025-01-17",
+    "region": "Europe",
+    "category": "Pro",
+    "signups": 80,
+    "activeUsers": 630,
+    "churned": 20
+  },
+  {
+    "date": "2025-01-18",
+    "region": "APAC",
+    "category": "Team",
+    "signups": 99,
+    "activeUsers": 682,
+    "churned": 23
+  },
+  {
+    "date": "2025-01-19",
+    "region": "LATAM",
+    "category": "Free",
+    "signups": 118,
+    "activeUsers": 734,
+    "churned": 8
+  },
+  {
+    "date": "2025-01-20",
+    "region": "North America",
+    "category": "Pro",
+    "signups": 137,
+    "activeUsers": 786,
+    "churned": 11
+  },
+  {
+    "date": "2025-01-21",
+    "region": "Europe",
+    "category": "Team",
+    "signups": 131,
+    "activeUsers": 766,
+    "churned": 14
+  },
+  {
+    "date": "2025-01-22",
+    "region": "APAC",
+    "category": "Free",
+    "signups": 150,
+    "activeUsers": 818,
+    "churned": 17
+  },
+  {
+    "date": "2025-01-23",
+    "region": "LATAM",
+    "category": "Pro",
+    "signups": 169,
+    "activeUsers": 496,
+    "churned": 20
+  },
+  {
+    "date": "2025-01-24",
+    "region": "North America",
+    "category": "Team",
+    "signups": 188,
+    "activeUsers": 548,
+    "churned": 23
+  },
+  {
+    "date": "2025-01-25",
+    "region": "Europe",
+    "category": "Free",
+    "signups": 95,
+    "activeUsers": 528,
+    "churned": 8
+  },
+  {
+    "date": "2025-01-26",
+    "region": "APAC",
+    "category": "Pro",
+    "signups": 89,
+    "activeUsers": 580,
+    "churned": 11
+  },
+  {
+    "date": "2025-01-27",
+    "region": "LATAM",
+    "category": "Team",
+    "signups": 108,
+    "activeUsers": 632,
+    "churned": 14
+  },
+  {
+    "date": "2025-01-28",
+    "region": "North America",
+    "category": "Free",
+    "signups": 127,
+    "activeUsers": 684,
+    "churned": 17
+  },
+  {
+    "date": "2025-01-29",
+    "region": "Europe",
+    "category": "Pro",
+    "signups": 146,
+    "activeUsers": 664,
+    "churned": 20
+  },
+  {
+    "date": "2025-01-30",
+    "region": "APAC",
+    "category": "Team",
+    "signups": 165,
+    "activeUsers": 716,
+    "churned": 23
+  },
+  {
+    "date": "2025-01-31",
+    "region": "LATAM",
+    "category": "Free",
+    "signups": 159,
+    "activeUsers": 768,
+    "churned": 8
+  },
+  {
+    "date": "2025-02-01",
+    "region": "North America",
+    "category": "Pro",
+    "signups": 178,
+    "activeUsers": 820,
+    "churned": 11
+  },
+  {
+    "date": "2025-02-02",
+    "region": "Europe",
+    "category": "Team",
+    "signups": 85,
+    "activeUsers": 800,
+    "churned": 14
+  },
+  {
+    "date": "2025-02-03",
+    "region": "APAC",
+    "category": "Free",
+    "signups": 104,
+    "activeUsers": 478,
+    "churned": 17
+  },
+  {
+    "date": "2025-02-04",
+    "region": "LATAM",
+    "category": "Pro",
+    "signups": 123,
+    "activeUsers": 530,
+    "churned": 20
+  },
+  {
+    "date": "2025-02-05",
+    "region": "North America",
+    "category": "Team",
+    "signups": 117,
+    "activeUsers": 582,
+    "churned": 23
+  },
+  {
+    "date": "2025-02-06",
+    "region": "Europe",
+    "category": "Free",
+    "signups": 136,
+    "activeUsers": 562,
+    "churned": 8
+  },
+  {
+    "date": "2025-02-07",
+    "region": "APAC",
+    "category": "Pro",
+    "signups": 155,
+    "activeUsers": 614,
+    "churned": 11
+  },
+  {
+    "date": "2025-02-08",
+    "region": "LATAM",
+    "category": "Team",
+    "signups": 174,
+    "activeUsers": 666,
+    "churned": 14
+  },
+  {
+    "date": "2025-02-09",
+    "region": "North America",
+    "category": "Free",
+    "signups": 193,
+    "activeUsers": 718,
+    "churned": 17
+  },
+  {
+    "date": "2025-02-10",
+    "region": "Europe",
+    "category": "Pro",
+    "signups": 75,
+    "activeUsers": 698,
+    "churned": 20
+  },
+  {
+    "date": "2025-02-11",
+    "region": "APAC",
+    "category": "Team",
+    "signups": 94,
+    "activeUsers": 750,
+    "churned": 23
+  },
+  {
+    "date": "2025-02-12",
+    "region": "LATAM",
+    "category": "Free",
+    "signups": 113,
+    "activeUsers": 802,
+    "churned": 8
+  },
+  {
+    "date": "2025-02-13",
+    "region": "North America",
+    "category": "Pro",
+    "signups": 132,
+    "activeUsers": 854,
+    "churned": 11
+  },
+  {
+    "date": "2025-02-14",
+    "region": "Europe",
+    "category": "Team",
+    "signups": 151,
+    "activeUsers": 460,
+    "churned": 14
+  },
+  {
+    "date": "2025-02-15",
+    "region": "APAC",
+    "category": "Free",
+    "signups": 145,
+    "activeUsers": 512,
+    "churned": 17
+  },
+  {
+    "date": "2025-02-16",
+    "region": "LATAM",
+    "category": "Pro",
+    "signups": 164,
+    "activeUsers": 564,
+    "churned": 20
+  },
+  {
+    "date": "2025-02-17",
+    "region": "North America",
+    "category": "Team",
+    "signups": 183,
+    "activeUsers": 616,
+    "churned": 23
+  },
+  {
+    "date": "2025-02-18",
+    "region": "Europe",
+    "category": "Free",
+    "signups": 90,
+    "activeUsers": 596,
+    "churned": 8
+  },
+  {
+    "date": "2025-02-19",
+    "region": "APAC",
+    "category": "Pro",
+    "signups": 109,
+    "activeUsers": 648,
+    "churned": 11
+  },
+  {
+    "date": "2025-02-20",
+    "region": "LATAM",
+    "category": "Team",
+    "signups": 103,
+    "activeUsers": 700,
+    "churned": 14
+  },
+  {
+    "date": "2025-02-21",
+    "region": "North America",
+    "category": "Free",
+    "signups": 122,
+    "activeUsers": 752,
+    "churned": 17
+  },
+  {
+    "date": "2025-02-22",
+    "region": "Europe",
+    "category": "Pro",
+    "signups": 141,
+    "activeUsers": 732,
+    "churned": 20
+  },
+  {
+    "date": "2025-02-23",
+    "region": "APAC",
+    "category": "Team",
+    "signups": 160,
+    "activeUsers": 784,
+    "churned": 23
+  },
+  {
+    "date": "2025-02-24",
+    "region": "LATAM",
+    "category": "Free",
+    "signups": 179,
+    "activeUsers": 836,
+    "churned": 8
+  },
+  {
+    "date": "2025-02-25",
+    "region": "North America",
+    "category": "Pro",
+    "signups": 173,
+    "activeUsers": 514,
+    "churned": 11
+  },
+  {
+    "date": "2025-02-26",
+    "region": "Europe",
+    "category": "Team",
+    "signups": 80,
+    "activeUsers": 494,
+    "churned": 14
+  },
+  {
+    "date": "2025-02-27",
+    "region": "APAC",
+    "category": "Free",
+    "signups": 99,
+    "activeUsers": 546,
+    "churned": 17
+  },
+  {
+    "date": "2025-02-28",
+    "region": "LATAM",
+    "category": "Pro",
+    "signups": 118,
+    "activeUsers": 598,
+    "churned": 20
+  },
+  {
+    "date": "2025-03-01",
+    "region": "North America",
+    "category": "Team",
+    "signups": 137,
+    "activeUsers": 650,
+    "churned": 23
+  },
+  {
+    "date": "2025-03-02",
+    "region": "Europe",
+    "category": "Free",
+    "signups": 131,
+    "activeUsers": 630,
+    "churned": 8
+  },
+  {
+    "date": "2025-03-03",
+    "region": "APAC",
+    "category": "Pro",
+    "signups": 150,
+    "activeUsers": 682,
+    "churned": 11
+  },
+  {
+    "date": "2025-03-04",
+    "region": "LATAM",
+    "category": "Team",
+    "signups": 169,
+    "activeUsers": 734,
+    "churned": 14
+  },
+  {
+    "date": "2025-03-05",
+    "region": "North America",
+    "category": "Free",
+    "signups": 188,
+    "activeUsers": 786,
+    "churned": 17
+  },
+  {
+    "date": "2025-03-06",
+    "region": "Europe",
+    "category": "Pro",
+    "signups": 95,
+    "activeUsers": 766,
+    "churned": 20
+  },
+  {
+    "date": "2025-03-07",
+    "region": "APAC",
+    "category": "Team",
+    "signups": 89,
+    "activeUsers": 818,
+    "churned": 23
+  },
+  {
+    "date": "2025-03-08",
+    "region": "LATAM",
+    "category": "Free",
+    "signups": 108,
+    "activeUsers": 496,
+    "churned": 8
+  },
+  {
+    "date": "2025-03-09",
+    "region": "North America",
+    "category": "Pro",
+    "signups": 127,
+    "activeUsers": 548,
+    "churned": 11
+  },
+  {
+    "date": "2025-03-10",
+    "region": "Europe",
+    "category": "Team",
+    "signups": 146,
+    "activeUsers": 528,
+    "churned": 14
+  },
+  {
+    "date": "2025-03-11",
+    "region": "APAC",
+    "category": "Free",
+    "signups": 165,
+    "activeUsers": 580,
+    "churned": 17
+  },
+  {
+    "date": "2025-03-12",
+    "region": "LATAM",
+    "category": "Pro",
+    "signups": 159,
+    "activeUsers": 632,
+    "churned": 20
+  },
+  {
+    "date": "2025-03-13",
+    "region": "North America",
+    "category": "Team",
+    "signups": 178,
+    "activeUsers": 684,
+    "churned": 23
+  },
+  {
+    "date": "2025-03-14",
+    "region": "Europe",
+    "category": "Free",
+    "signups": 85,
+    "activeUsers": 664,
+    "churned": 8
+  },
+  {
+    "date": "2025-03-15",
+    "region": "APAC",
+    "category": "Pro",
+    "signups": 104,
+    "activeUsers": 716,
+    "churned": 11
+  },
+  {
+    "date": "2025-03-16",
+    "region": "LATAM",
+    "category": "Team",
+    "signups": 123,
+    "activeUsers": 768,
+    "churned": 14
+  },
+  {
+    "date": "2025-03-17",
+    "region": "North America",
+    "category": "Free",
+    "signups": 117,
+    "activeUsers": 820,
+    "churned": 17
+  },
+  {
+    "date": "2025-03-18",
+    "region": "Europe",
+    "category": "Pro",
+    "signups": 136,
+    "activeUsers": 800,
+    "churned": 20
+  },
+  {
+    "date": "2025-03-19",
+    "region": "APAC",
+    "category": "Team",
+    "signups": 155,
+    "activeUsers": 478,
+    "churned": 23
+  },
+  {
+    "date": "2025-03-20",
+    "region": "LATAM",
+    "category": "Free",
+    "signups": 174,
+    "activeUsers": 530,
+    "churned": 8
+  },
+  {
+    "date": "2025-03-21",
+    "region": "North America",
+    "category": "Pro",
+    "signups": 193,
+    "activeUsers": 582,
+    "churned": 11
+  },
+  {
+    "date": "2025-03-22",
+    "region": "Europe",
+    "category": "Team",
+    "signups": 75,
+    "activeUsers": 562,
+    "churned": 14
+  },
+  {
+    "date": "2025-03-23",
+    "region": "APAC",
+    "category": "Free",
+    "signups": 94,
+    "activeUsers": 614,
+    "churned": 17
+  },
+  {
+    "date": "2025-03-24",
+    "region": "LATAM",
+    "category": "Pro",
+    "signups": 113,
+    "activeUsers": 666,
+    "churned": 20
+  },
+  {
+    "date": "2025-03-25",
+    "region": "North America",
+    "category": "Team",
+    "signups": 132,
+    "activeUsers": 718,
+    "churned": 23
+  },
+  {
+    "date": "2025-03-26",
+    "region": "Europe",
+    "category": "Free",
+    "signups": 151,
+    "activeUsers": 698,
+    "churned": 8
+  },
+  {
+    "date": "2025-03-27",
+    "region": "APAC",
+    "category": "Pro",
+    "signups": 145,
+    "activeUsers": 750,
+    "churned": 11
+  },
+  {
+    "date": "2025-03-28",
+    "region": "LATAM",
+    "category": "Team",
+    "signups": 164,
+    "activeUsers": 802,
+    "churned": 14
+  },
+  {
+    "date": "2025-03-29",
+    "region": "North America",
+    "category": "Free",
+    "signups": 183,
+    "activeUsers": 854,
+    "churned": 17
+  },
+  {
+    "date": "2025-03-30",
+    "region": "Europe",
+    "category": "Pro",
+    "signups": 90,
+    "activeUsers": 460,
+    "churned": 20
+  },
+  {
+    "date": "2025-03-31",
+    "region": "APAC",
+    "category": "Team",
+    "signups": 109,
+    "activeUsers": 512,
+    "churned": 23
+  }
+]

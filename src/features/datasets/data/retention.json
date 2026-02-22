@@ -1,0 +1,722 @@
+[
+  {
+    "date": "2025-01-01",
+    "region": "APAC",
+    "category": "30-day cohort",
+    "cohortSize": 140,
+    "retainedUsers": 76,
+    "retentionRate": 0.5428571428571428
+  },
+  {
+    "date": "2025-01-02",
+    "region": "LATAM",
+    "category": "60-day cohort",
+    "cohortSize": 166,
+    "retainedUsers": 95,
+    "retentionRate": 0.572289156626506
+  },
+  {
+    "date": "2025-01-03",
+    "region": "North America",
+    "category": "90-day cohort",
+    "cohortSize": 192,
+    "retainedUsers": 117,
+    "retentionRate": 0.609375
+  },
+  {
+    "date": "2025-01-04",
+    "region": "Europe",
+    "category": "30-day cohort",
+    "cohortSize": 191,
+    "retainedUsers": 123,
+    "retentionRate": 0.643979057591623
+  },
+  {
+    "date": "2025-01-05",
+    "region": "APAC",
+    "category": "60-day cohort",
+    "cohortSize": 217,
+    "retainedUsers": 148,
+    "retentionRate": 0.6820276497695853
+  },
+  {
+    "date": "2025-01-06",
+    "region": "LATAM",
+    "category": "90-day cohort",
+    "cohortSize": 243,
+    "retainedUsers": 174,
+    "retentionRate": 0.7160493827160493
+  },
+  {
+    "date": "2025-01-07",
+    "region": "North America",
+    "category": "30-day cohort",
+    "cohortSize": 242,
+    "retainedUsers": 182,
+    "retentionRate": 0.7520661157024794
+  },
+  {
+    "date": "2025-01-08",
+    "region": "Europe",
+    "category": "60-day cohort",
+    "cohortSize": 268,
+    "retainedUsers": 145,
+    "retentionRate": 0.5410447761194029
+  },
+  {
+    "date": "2025-01-09",
+    "region": "APAC",
+    "category": "90-day cohort",
+    "cohortSize": 294,
+    "retainedUsers": 169,
+    "retentionRate": 0.5748299319727891
+  },
+  {
+    "date": "2025-01-10",
+    "region": "LATAM",
+    "category": "30-day cohort",
+    "cohortSize": 140,
+    "retainedUsers": 85,
+    "retentionRate": 0.6071428571428571
+  },
+  {
+    "date": "2025-01-11",
+    "region": "North America",
+    "category": "60-day cohort",
+    "cohortSize": 166,
+    "retainedUsers": 107,
+    "retentionRate": 0.6445783132530121
+  },
+  {
+    "date": "2025-01-12",
+    "region": "Europe",
+    "category": "90-day cohort",
+    "cohortSize": 192,
+    "retainedUsers": 131,
+    "retentionRate": 0.6822916666666666
+  },
+  {
+    "date": "2025-01-13",
+    "region": "APAC",
+    "category": "30-day cohort",
+    "cohortSize": 191,
+    "retainedUsers": 137,
+    "retentionRate": 0.7172774869109948
+  },
+  {
+    "date": "2025-01-14",
+    "region": "LATAM",
+    "category": "60-day cohort",
+    "cohortSize": 217,
+    "retainedUsers": 163,
+    "retentionRate": 0.7511520737327189
+  },
+  {
+    "date": "2025-01-15",
+    "region": "North America",
+    "category": "90-day cohort",
+    "cohortSize": 243,
+    "retainedUsers": 131,
+    "retentionRate": 0.5390946502057613
+  },
+  {
+    "date": "2025-01-16",
+    "region": "Europe",
+    "category": "30-day cohort",
+    "cohortSize": 242,
+    "retainedUsers": 139,
+    "retentionRate": 0.5743801652892562
+  },
+  {
+    "date": "2025-01-17",
+    "region": "APAC",
+    "category": "60-day cohort",
+    "cohortSize": 268,
+    "retainedUsers": 163,
+    "retentionRate": 0.6082089552238806
+  },
+  {
+    "date": "2025-01-18",
+    "region": "LATAM",
+    "category": "90-day cohort",
+    "cohortSize": 294,
+    "retainedUsers": 190,
+    "retentionRate": 0.6462585034013606
+  },
+  {
+    "date": "2025-01-19",
+    "region": "North America",
+    "category": "30-day cohort",
+    "cohortSize": 140,
+    "retainedUsers": 95,
+    "retentionRate": 0.6785714285714286
+  },
+  {
+    "date": "2025-01-20",
+    "region": "Europe",
+    "category": "60-day cohort",
+    "cohortSize": 166,
+    "retainedUsers": 119,
+    "retentionRate": 0.7168674698795181
+  },
+  {
+    "date": "2025-01-21",
+    "region": "APAC",
+    "category": "90-day cohort",
+    "cohortSize": 192,
+    "retainedUsers": 144,
+    "retentionRate": 0.75
+  },
+  {
+    "date": "2025-01-22",
+    "region": "LATAM",
+    "category": "30-day cohort",
+    "cohortSize": 191,
+    "retainedUsers": 103,
+    "retentionRate": 0.5392670157068062
+  },
+  {
+    "date": "2025-01-23",
+    "region": "North America",
+    "category": "60-day cohort",
+    "cohortSize": 217,
+    "retainedUsers": 125,
+    "retentionRate": 0.576036866359447
+  },
+  {
+    "date": "2025-01-24",
+    "region": "Europe",
+    "category": "90-day cohort",
+    "cohortSize": 243,
+    "retainedUsers": 148,
+    "retentionRate": 0.6090534979423868
+  },
+  {
+    "date": "2025-01-25",
+    "region": "APAC",
+    "category": "30-day cohort",
+    "cohortSize": 242,
+    "retainedUsers": 156,
+    "retentionRate": 0.6446280991735537
+  },
+  {
+    "date": "2025-01-26",
+    "region": "LATAM",
+    "category": "60-day cohort",
+    "cohortSize": 268,
+    "retainedUsers": 182,
+    "retentionRate": 0.6791044776119403
+  },
+  {
+    "date": "2025-01-27",
+    "region": "North America",
+    "category": "90-day cohort",
+    "cohortSize": 294,
+    "retainedUsers": 210,
+    "retentionRate": 0.7142857142857143
+  },
+  {
+    "date": "2025-01-28",
+    "region": "Europe",
+    "category": "30-day cohort",
+    "cohortSize": 140,
+    "retainedUsers": 105,
+    "retentionRate": 0.75
+  },
+  {
+    "date": "2025-01-29",
+    "region": "APAC",
+    "category": "60-day cohort",
+    "cohortSize": 166,
+    "retainedUsers": 90,
+    "retentionRate": 0.5421686746987951
+  },
+  {
+    "date": "2025-01-30",
+    "region": "LATAM",
+    "category": "90-day cohort",
+    "cohortSize": 192,
+    "retainedUsers": 110,
+    "retentionRate": 0.5729166666666666
+  },
+  {
+    "date": "2025-01-31",
+    "region": "North America",
+    "category": "30-day cohort",
+    "cohortSize": 191,
+    "retainedUsers": 117,
+    "retentionRate": 0.612565445026178
+  },
+  {
+    "date": "2025-02-01",
+    "region": "Europe",
+    "category": "60-day cohort",
+    "cohortSize": 217,
+    "retainedUsers": 140,
+    "retentionRate": 0.6451612903225806
+  },
+  {
+    "date": "2025-02-02",
+    "region": "APAC",
+    "category": "90-day cohort",
+    "cohortSize": 243,
+    "retainedUsers": 165,
+    "retentionRate": 0.6790123456790124
+  },
+  {
+    "date": "2025-02-03",
+    "region": "LATAM",
+    "category": "30-day cohort",
+    "cohortSize": 242,
+    "retainedUsers": 173,
+    "retentionRate": 0.7148760330578512
+  },
+  {
+    "date": "2025-02-04",
+    "region": "North America",
+    "category": "60-day cohort",
+    "cohortSize": 268,
+    "retainedUsers": 201,
+    "retentionRate": 0.75
+  },
+  {
+    "date": "2025-02-05",
+    "region": "Europe",
+    "category": "90-day cohort",
+    "cohortSize": 294,
+    "retainedUsers": 159,
+    "retentionRate": 0.5408163265306123
+  },
+  {
+    "date": "2025-02-06",
+    "region": "APAC",
+    "category": "30-day cohort",
+    "cohortSize": 140,
+    "retainedUsers": 81,
+    "retentionRate": 0.5785714285714286
+  },
+  {
+    "date": "2025-02-07",
+    "region": "LATAM",
+    "category": "60-day cohort",
+    "cohortSize": 166,
+    "retainedUsers": 101,
+    "retentionRate": 0.608433734939759
+  },
+  {
+    "date": "2025-02-08",
+    "region": "North America",
+    "category": "90-day cohort",
+    "cohortSize": 192,
+    "retainedUsers": 124,
+    "retentionRate": 0.6458333333333334
+  },
+  {
+    "date": "2025-02-09",
+    "region": "Europe",
+    "category": "30-day cohort",
+    "cohortSize": 191,
+    "retainedUsers": 130,
+    "retentionRate": 0.680628272251309
+  },
+  {
+    "date": "2025-02-10",
+    "region": "APAC",
+    "category": "60-day cohort",
+    "cohortSize": 217,
+    "retainedUsers": 155,
+    "retentionRate": 0.7142857142857143
+  },
+  {
+    "date": "2025-02-11",
+    "region": "LATAM",
+    "category": "90-day cohort",
+    "cohortSize": 243,
+    "retainedUsers": 182,
+    "retentionRate": 0.7489711934156379
+  },
+  {
+    "date": "2025-02-12",
+    "region": "North America",
+    "category": "30-day cohort",
+    "cohortSize": 242,
+    "retainedUsers": 131,
+    "retentionRate": 0.5413223140495868
+  },
+  {
+    "date": "2025-02-13",
+    "region": "Europe",
+    "category": "60-day cohort",
+    "cohortSize": 268,
+    "retainedUsers": 154,
+    "retentionRate": 0.5746268656716418
+  },
+  {
+    "date": "2025-02-14",
+    "region": "APAC",
+    "category": "90-day cohort",
+    "cohortSize": 294,
+    "retainedUsers": 179,
+    "retentionRate": 0.608843537414966
+  },
+  {
+    "date": "2025-02-15",
+    "region": "LATAM",
+    "category": "30-day cohort",
+    "cohortSize": 140,
+    "retainedUsers": 90,
+    "retentionRate": 0.6428571428571429
+  },
+  {
+    "date": "2025-02-16",
+    "region": "North America",
+    "category": "60-day cohort",
+    "cohortSize": 166,
+    "retainedUsers": 113,
+    "retentionRate": 0.6807228915662651
+  },
+  {
+    "date": "2025-02-17",
+    "region": "Europe",
+    "category": "90-day cohort",
+    "cohortSize": 192,
+    "retainedUsers": 137,
+    "retentionRate": 0.7135416666666666
+  },
+  {
+    "date": "2025-02-18",
+    "region": "APAC",
+    "category": "30-day cohort",
+    "cohortSize": 191,
+    "retainedUsers": 143,
+    "retentionRate": 0.7486910994764397
+  },
+  {
+    "date": "2025-02-19",
+    "region": "LATAM",
+    "category": "60-day cohort",
+    "cohortSize": 217,
+    "retainedUsers": 117,
+    "retentionRate": 0.5391705069124424
+  },
+  {
+    "date": "2025-02-20",
+    "region": "North America",
+    "category": "90-day cohort",
+    "cohortSize": 243,
+    "retainedUsers": 140,
+    "retentionRate": 0.5761316872427984
+  },
+  {
+    "date": "2025-02-21",
+    "region": "Europe",
+    "category": "30-day cohort",
+    "cohortSize": 242,
+    "retainedUsers": 148,
+    "retentionRate": 0.6115702479338843
+  },
+  {
+    "date": "2025-02-22",
+    "region": "APAC",
+    "category": "60-day cohort",
+    "cohortSize": 268,
+    "retainedUsers": 173,
+    "retentionRate": 0.6455223880597015
+  },
+  {
+    "date": "2025-02-23",
+    "region": "LATAM",
+    "category": "90-day cohort",
+    "cohortSize": 294,
+    "retainedUsers": 200,
+    "retentionRate": 0.6802721088435374
+  },
+  {
+    "date": "2025-02-24",
+    "region": "North America",
+    "category": "30-day cohort",
+    "cohortSize": 140,
+    "retainedUsers": 100,
+    "retentionRate": 0.7142857142857143
+  },
+  {
+    "date": "2025-02-25",
+    "region": "Europe",
+    "category": "60-day cohort",
+    "cohortSize": 166,
+    "retainedUsers": 125,
+    "retentionRate": 0.7530120481927711
+  },
+  {
+    "date": "2025-02-26",
+    "region": "APAC",
+    "category": "90-day cohort",
+    "cohortSize": 192,
+    "retainedUsers": 104,
+    "retentionRate": 0.5416666666666666
+  },
+  {
+    "date": "2025-02-27",
+    "region": "LATAM",
+    "category": "30-day cohort",
+    "cohortSize": 191,
+    "retainedUsers": 110,
+    "retentionRate": 0.5759162303664922
+  },
+  {
+    "date": "2025-02-28",
+    "region": "North America",
+    "category": "60-day cohort",
+    "cohortSize": 217,
+    "retainedUsers": 132,
+    "retentionRate": 0.6082949308755761
+  },
+  {
+    "date": "2025-03-01",
+    "region": "Europe",
+    "category": "90-day cohort",
+    "cohortSize": 243,
+    "retainedUsers": 157,
+    "retentionRate": 0.6460905349794238
+  },
+  {
+    "date": "2025-03-02",
+    "region": "APAC",
+    "category": "30-day cohort",
+    "cohortSize": 242,
+    "retainedUsers": 165,
+    "retentionRate": 0.6818181818181818
+  },
+  {
+    "date": "2025-03-03",
+    "region": "LATAM",
+    "category": "60-day cohort",
+    "cohortSize": 268,
+    "retainedUsers": 192,
+    "retentionRate": 0.7164179104477612
+  },
+  {
+    "date": "2025-03-04",
+    "region": "North America",
+    "category": "90-day cohort",
+    "cohortSize": 294,
+    "retainedUsers": 221,
+    "retentionRate": 0.7517006802721088
+  },
+  {
+    "date": "2025-03-05",
+    "region": "Europe",
+    "category": "30-day cohort",
+    "cohortSize": 140,
+    "retainedUsers": 76,
+    "retentionRate": 0.5428571428571428
+  },
+  {
+    "date": "2025-03-06",
+    "region": "APAC",
+    "category": "60-day cohort",
+    "cohortSize": 166,
+    "retainedUsers": 95,
+    "retentionRate": 0.572289156626506
+  },
+  {
+    "date": "2025-03-07",
+    "region": "LATAM",
+    "category": "90-day cohort",
+    "cohortSize": 192,
+    "retainedUsers": 117,
+    "retentionRate": 0.609375
+  },
+  {
+    "date": "2025-03-08",
+    "region": "North America",
+    "category": "30-day cohort",
+    "cohortSize": 191,
+    "retainedUsers": 123,
+    "retentionRate": 0.643979057591623
+  },
+  {
+    "date": "2025-03-09",
+    "region": "Europe",
+    "category": "60-day cohort",
+    "cohortSize": 217,
+    "retainedUsers": 148,
+    "retentionRate": 0.6820276497695853
+  },
+  {
+    "date": "2025-03-10",
+    "region": "APAC",
+    "category": "90-day cohort",
+    "cohortSize": 243,
+    "retainedUsers": 174,
+    "retentionRate": 0.7160493827160493
+  },
+  {
+    "date": "2025-03-11",
+    "region": "LATAM",
+    "category": "30-day cohort",
+    "cohortSize": 242,
+    "retainedUsers": 182,
+    "retentionRate": 0.7520661157024794
+  },
+  {
+    "date": "2025-03-12",
+    "region": "North America",
+    "category": "60-day cohort",
+    "cohortSize": 268,
+    "retainedUsers": 145,
+    "retentionRate": 0.5410447761194029
+  },
+  {
+    "date": "2025-03-13",
+    "region": "Europe",
+    "category": "90-day cohort",
+    "cohortSize": 294,
+    "retainedUsers": 169,
+    "retentionRate": 0.5748299319727891
+  },
+  {
+    "date": "2025-03-14",
+    "region": "APAC",
+    "category": "30-day cohort",
+    "cohortSize": 140,
+    "retainedUsers": 85,
+    "retentionRate": 0.6071428571428571
+  },
+  {
+    "date": "2025-03-15",
+    "region": "LATAM",
+    "category": "60-day cohort",
+    "cohortSize": 166,
+    "retainedUsers": 107,
+    "retentionRate": 0.6445783132530121
+  },
+  {
+    "date": "2025-03-16",
+    "region": "North America",
+    "category": "90-day cohort",
+    "cohortSize": 192,
+    "retainedUsers": 131,
+    "retentionRate": 0.6822916666666666
+  },
+  {
+    "date": "2025-03-17",
+    "region": "Europe",
+    "category": "30-day cohort",
+    "cohortSize": 191,
+    "retainedUsers": 137,
+    "retentionRate": 0.7172774869109948
+  },
+  {
+    "date": "2025-03-18",
+    "region": "APAC",
+    "category": "60-day cohort",
+    "cohortSize": 217,
+    "retainedUsers": 163,
+    "retentionRate": 0.7511520737327189
+  },
+  {
+    "date": "2025-03-19",
+    "region": "LATAM",
+    "category": "90-day cohort",
+    "cohortSize": 243,
+    "retainedUsers": 131,
+    "retentionRate": 0.5390946502057613
+  },
+  {
+    "date": "2025-03-20",
+    "region": "North America",
+    "category": "30-day cohort",
+    "cohortSize": 242,
+    "retainedUsers": 139,
+    "retentionRate": 0.5743801652892562
+  },
+  {
+    "date": "2025-03-21",
+    "region": "Europe",
+    "category": "60-day cohort",
+    "cohortSize": 268,
+    "retainedUsers": 163,
+    "retentionRate": 0.6082089552238806
+  },
+  {
+    "date": "2025-03-22",
+    "region": "APAC",
+    "category": "90-day cohort",
+    "cohortSize": 294,
+    "retainedUsers": 190,
+    "retentionRate": 0.6462585034013606
+  },
+  {
+    "date": "2025-03-23",
+    "region": "LATAM",
+    "category": "30-day cohort",
+    "cohortSize": 140,
+    "retainedUsers": 95,
+    "retentionRate": 0.6785714285714286
+  },
+  {
+    "date": "2025-03-24",
+    "region": "North America",
+    "category": "60-day cohort",
+    "cohortSize": 166,
+    "retainedUsers": 119,
+    "retentionRate": 0.7168674698795181
+  },
+  {
+    "date": "2025-03-25",
+    "region": "Europe",
+    "category": "90-day cohort",
+    "cohortSize": 192,
+    "retainedUsers": 144,
+    "retentionRate": 0.75
+  },
+  {
+    "date": "2025-03-26",
+    "region": "APAC",
+    "category": "30-day cohort",
+    "cohortSize": 191,
+    "retainedUsers": 103,
+    "retentionRate": 0.5392670157068062
+  },
+  {
+    "date": "2025-03-27",
+    "region": "LATAM",
+    "category": "60-day cohort",
+    "cohortSize": 217,
+    "retainedUsers": 125,
+    "retentionRate": 0.576036866359447
+  },
+  {
+    "date": "2025-03-28",
+    "region": "North America",
+    "category": "90-day cohort",
+    "cohortSize": 243,
+    "retainedUsers": 148,
+    "retentionRate": 0.6090534979423868
+  },
+  {
+    "date": "2025-03-29",
+    "region": "Europe",
+    "category": "30-day cohort",
+    "cohortSize": 242,
+    "retainedUsers": 156,
+    "retentionRate": 0.6446280991735537
+  },
+  {
+    "date": "2025-03-30",
+    "region": "APAC",
+    "category": "60-day cohort",
+    "cohortSize": 268,
+    "retainedUsers": 182,
+    "retentionRate": 0.6791044776119403
+  },
+  {
+    "date": "2025-03-31",
+    "region": "LATAM",
+    "category": "90-day cohort",
+    "cohortSize": 294,
+    "retainedUsers": 210,
+    "retentionRate": 0.7142857142857143
+  }
+]
