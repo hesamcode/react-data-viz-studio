@@ -75,13 +75,13 @@ export default function AppShell({ pathname, children }) {
         <footer className="mt-10 border-t border-slate-200 pt-6 text-base text-slate-700 dark:border-slate-800 dark:text-slate-300">
           Built by{" "}
           <a
-            href="https://hesamkhorshidi.github.io"
+            href="https://hesamcode.github.io"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Visit Hesam Khorshidi portfolio website"
+            aria-label="Visit HesamCode portfolio website"
             className="font-semibold text-primary-500 hover:text-primary-400"
           >
-            Hesam Khorshidi
+            HesamCode
           </a>
         </footer>
       </div>

@@ -9,13 +9,13 @@ export default function AboutPage() {
       <p className="mt-6 text-base text-slate-700 dark:text-slate-200">
         Built by{" "}
         <a
-          href="https://hesamkhorshidi.github.io"
+          href="https://hesamcode.github.io"
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="Visit Hesam Khorshidi portfolio website"
+          aria-label="Visit HesamCode portfolio website"
           className="font-semibold text-primary-500 underline decoration-primary-500/60 underline-offset-4 hover:text-primary-400"
         >
-          Hesam Khorshidi
+          HesamCode
         </a>
       </p>
     </section>
